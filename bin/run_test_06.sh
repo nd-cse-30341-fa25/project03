@@ -30,5 +30,6 @@ test-libraries sort src/*.c
 test-libraries dd if=/dev/urandom of=/dev/null bs=1024 count=1024
 test-libraries du /lib/
 test-libraries find /lib/
+test-libraries ls /lib/
 
 # vim: sts=4 sw=4 ts=8 ft=sh
