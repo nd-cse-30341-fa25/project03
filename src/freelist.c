@@ -10,7 +10,7 @@
 
 /* Global Variables */
 
-Block FreeList = {-1, -1, &FreeList, &FreeList};
+Block FreeList = {0, 0, &FreeList, &FreeList};
 
 /* Functions */
 
