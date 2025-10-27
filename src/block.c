@@ -13,7 +13,7 @@
  *
  *  1. Determined aligned amount of memory to allocate.
  *  2. Allocate memory on the heap.
- *  3. Set allocage block properties.
+ *  3. Set allocated block properties.
  *
  * @param   size    Number of bytes to allocate.
  * @return  Pointer to data portion of newly allocate block.
